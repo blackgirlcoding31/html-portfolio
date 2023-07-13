@@ -1,0 +1,34 @@
+/*------------------SELECTORS--------------------*/
+h3{
+    font-style: normal;
+    font-size: medium;
+}
+img{
+    border-radius: 100%;
+    width: 150px;
+}
+/*------------------CLASS SELECTORS---------------------*/
+.banner-background{
+    color: antiquewhite;
+    background-color: navy;
+}
+.fonttype{
+    font-family:"EB Garamond", serif;
+}
+/*----------------------ID SELECTORS------------------------*/
+#subheader{
+    font-weight: 200;
+    font-size:larger;
+}
+#wrap{
+    float: left;
+    margin: 10px
+}
+#section1{
+    color: antiquewhite;
+    background-color: navy;
+    text-align: left;
+}
+/*--------------------------------ATTRIBUTE SLECTORS----------------------*/
+
+/*----------------------------------------UNIVERSAL SELECTORS-------------------------*/
